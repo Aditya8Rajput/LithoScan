@@ -1,0 +1,13 @@
+# Ignore model weights
+*.pth
+
+# Ignore dataset folders
+archive (4)/
+CT-KIDNEY-DATASET-Normal-Cyst-Tumor-Stone/
+
+# Ignore Python caches
+__pycache__/
+*.pyc
+
+# Ignore environment stuff if any
+.env
